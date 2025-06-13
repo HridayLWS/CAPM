@@ -1,0 +1,5 @@
+ID;name;role;skillLevel;hourlyRate;project_ID;createdAt;createdBy;modifiedAt;modifiedBy
+101;Alice Johnson;Developer;Senior;80.00;1;2024-01-10T09:00:00Z;admin;2024-06-01T10:00:00Z;admin
+102;Bob Smith;Tester;Mid;60.00;1;2024-01-12T10:00:00Z;admin;2024-06-01T10:30:00Z;admin
+103;Charlie Lee;Project Manager;Senior;100.00;2;2024-02-20T08:45:00Z;admin;2024-06-01T11:00:00Z;admin
+104;Dana White;Developer;Junior;50.00;2;2024-02-22T09:15:00Z;admin;2024-06-01T11:15:00Z;admin

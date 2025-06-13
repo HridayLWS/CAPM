@@ -1,0 +1,5 @@
+ID;title;status;startDate;endDate;project_ID;workedUponBy_ID;createdAt;createdBy;modifiedAt;modifiedBy
+201;Setup project repo;Completed;2024-01-02;2024-01-05;1;101;2024-01-02T08:00:00Z;admin;2024-01-06T10:00:00Z;admin
+202;Create CI/CD pipeline;In Progress;2024-01-10;2024-01-20;1;102;2024-01-10T09:00:00Z;admin;2024-06-01T12:00:00Z;admin
+203;Cloud architecture design;Completed;2024-02-20;2024-03-15;2;103;2024-02-21T10:00:00Z;admin;2024-03-16T11:00:00Z;admin
+204;API Development;Planned;2024-06-01;2024-06-30;2;104;2024-05-30T11:30:00Z;admin;2024-06-01T11:30:00Z;admin
